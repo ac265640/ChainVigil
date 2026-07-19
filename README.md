@@ -16,7 +16,7 @@ Integrates multi-source transaction logs (UPI, ATM, Web, Mobile App) into a **Un
 
 ---
 
-## 🏗️ Architecture
+## 🏗️ Architecture 
 
 ```
 Multi-Channel Logs  →  Data Ingestion (FastAPI)
