@@ -37,7 +37,7 @@ Multi-Channel Logs  →  Data Ingestion (FastAPI)
 | Graph Database   | Neo4j 5.x + NetworkX (in-memory fallback) |
 | Machine Learning | PyTorch Geometric — GraphSAGE + GAT       |
 | XAI              | Gradient × Input / SHAP                   |
-| Frontend         | React 19 + Vite 5                         |
+| Frontend         | React 19 +  Vite 5                         |
 | Graph Viz        | react-force-graph-2d                      |
 | Deployment       | Docker · Render · Railway                 |
 
